@@ -1,18 +1,12 @@
-# chat_app
+# Chat App
 
-A new Flutter project.
+### Be careful of :
+###### If you run into any errors while debugging the program, go check the versions of Gradle, Kotlin, Java, and the SDK, and make sure they're all compatible with each other.
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
+<div style="display: flex; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/8ab5af91-1f49-404f-905b-286f638e562d" style="padding: 20px;" />
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Chat-App" 
-"# Chat-App" 
+ 
