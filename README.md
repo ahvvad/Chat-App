@@ -1,7 +1,7 @@
 # Chat App
 
 ### Be careful of :
-###### If you run into any errors while debugging the program, go check the versions of Gradle, Kotlin, Java, and the SDK, and make sure they're all compatible with each other.
+###### If you run into any errors while debugging the app, go check the versions of Gradle, Kotlin, Java, and the SDK, and make sure they're all compatible with each other.
 
 ## UI
 
